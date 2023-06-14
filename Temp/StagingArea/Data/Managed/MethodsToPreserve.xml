@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="oyuncu">
+			<method name="durdurBaslat"/>
+			<method name="durdurBaslat"/>
+			<method name="oyundanCik"/>
+			<method name="saga_don"/>
+			<method name="sesAcKapa"/>
+			<method name="sola_don"/>
+			<method name="yenidenBaslat"/>
+		</type>
+	</assembly>
+</linker>
